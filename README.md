@@ -1,2 +1,2 @@
 # crypto-project-
-A crypto currency app, that will allows uses to interact with their favorite coins, customize their dash board , get trading insights, analysis and indicators 
+A cryptocurrency app that enables users to engage with their favorite coins, customize their dashboard, and access trading insights, analyses, and indicators.
